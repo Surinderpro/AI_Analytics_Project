@@ -2,3 +2,10 @@ langchain
 streamlit
 langchain_google_genai
 chromadb
+langchain-community
+openai
+anthropic 
+python-dotenv
+unstructured
+xlrd 
+networkx 
